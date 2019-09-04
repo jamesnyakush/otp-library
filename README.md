@@ -8,9 +8,6 @@
 
 This a collection of material ui with otp custom view
 
-## Usage
-
-
 
 ## Download
 
@@ -28,6 +25,8 @@ Then add the library to module level build.gradle.
 ```groovy
  implementation 'com.github.jamesnyakush:MaterialUI:Tag'
 ```
+
+## Usage
 
 Add OTPEditText to your layout to get started.
 

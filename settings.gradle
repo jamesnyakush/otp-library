@@ -1,0 +1,2 @@
+include ':app', ':otp'
+rootProject.name='MaterialUI'

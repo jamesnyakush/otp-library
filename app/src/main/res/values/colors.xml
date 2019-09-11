@@ -3,4 +3,146 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="blue">#1961BC</color>
+    <color name="blue_login">#33B5EB</color>
+    <color name="blue_twitter">#55acee</color>
+    <color name="blue_click_old">#bbdefb</color>
+    <color name="blue_click">#ff33b5e5</color>
+    <color name="red">#D40201</color>
+    <color name="red_wayay">#df4629</color>
+    <color name="green">#3E9124</color>
+    <color name="purple">#631380</color>
+    <color name="pink">#B35EA4</color>
+    <color name="white">#ffffff</color>
+    <color name="brown">#974c35</color>
+    <color name="yellow">#F0E81B</color>
+    <color name="green_1">#20976c</color>
+    <color name="green_light">#6BBC46</color>
+    <color name="green_progress">#C2D830</color>
+    <color name="gray">#66696C</color>
+    <color name="gray_1">#CCCCCC</color>
+    <color name="gray_item_post">#BCC1C5</color>
+    <color name="gray_light">#EDEEF0</color>
+    <color name="gray_light_1">#BCC1C7</color>
+    <color name="gray_checkin">#261408</color>
+    <color name="dark_red">#741919</color>
+    <color name="orange">#CE7609</color>
+    <color name="carbon">#292a2e</color>
+    <color name="cream">#E2DDB5</color>
+    <color name="yellow_1">#ffe473</color>
+    <color name="yellow_2">#fabb00</color>
+    <color name="black_666">#666</color>
+    <color name="brown_1">#3e2723</color>
+    <color name="maroon">#791B2F</color>
+    <color name="carbon_transparent_70">#70292a2e</color>
+    <color name="cream_transparent_70">#70E2DDB5</color>
+    <color name="white_transparent_70">#70ffffff</color>
+    <color name="blue_transparent_70">#701961BC</color>
+    <color name="red_transparent_70">#70D40201</color>
+    <color name="green_transparent_70">#703E9124</color>
+    <color name="green_1_transparent_70">#7020976c</color>
+    <color name="purple_transparent_70">#70631380</color>
+    <color name="pink_transparent_70">#70B35EA4</color>
+    <color name="brown_transparent_70">#70974c35</color>
+    <color name="yellow_transparent_70">#70F0E81B</color>
+    <color name="gray_transparent_70">#7066696C</color>
+    <color name="dark_red_transparent_70">#70741919</color>
+    <color name="maroon_transparent_70">#70791B2F</color>
+    <color name="orange_transparent_70">#70CE7609</color>
+    <color name="yellow_1_transparent_70">#70ffe473</color>
+    <color name="yellow_2_transparent_70">#70fabb00</color>
+    <color name="brown_1_transparent_70">#703e2723</color>
+    <color name="white_transparent_30">#30ffffff</color>
+    <color name="carbon_transparent_30">#30292a2e</color>
+    <color name="brown_1_transparent_30">#303e2723</color>
+    <color name="gray_transparent_30">#3066696C</color>
+    <color name="white_transparent_bb">#bbffffff</color>
+    <color name="carbon_transparent_bb">#bb292a2e</color>
+    <color name="brown_1_transparent_bb">#bb3e2723</color>
+    <color name="orange_transparent_cc">#ccCE7609</color>
+    <color name="blue_transparent_cc">#cc1961BC</color>
+    <color name="red_transparent_cc">#ccD40201</color>
+    <color name="green_1_transparent_cc">#cc20976c</color>
+    <color name="yellow_1_transparent_cc">#ccffe473</color>
+    <color name="white_transparent_cc">#ccffffff</color>
+    <color name="blue_transparent_50">#501961BC</color>
+    <color name="red_transparent_50">#50D40201</color>
+    <color name="green_transparent_50">#503E9124</color>
+    <color name="green_1_transparent_50">#5020976c</color>
+    <color name="purple_transparent_50">#50631380</color>
+    <color name="pink_transparent_50">#50B35EA4</color>
+    <color name="brown_transparent_50">#50974c35</color>
+    <color name="yellow_transparent_50">#50F0E81B</color>
+    <color name="gray_transparent_50">#5066696C</color>
+    <color name="dark_red_transparent_50">#50741919</color>
+    <color name="maroon_transparent_50">#50791B2F</color>
+    <color name="orange_transparent_50">#50CE7609</color>
+    <color name="cream_transparent_50">#50E2DDB5</color>
+    <color name="carbon_transparent_50">#50292a2e</color>
+    <color name="yellow_1_transparent_50">#50ffe473</color>
+    <color name="yellow_2_transparent_50">#50fabb00</color>
+    <color name="white_transparent_50">#50ffffff</color>
+    <color name="brown_1_transparent_50">#503e2723</color>
+    <color name="white_title">#efebe9</color>
+    <color name="white_transparent_dd">#ddffffff</color>
+    <color name="white_transparent_ee">#eeffffff</color>
+    <color name="white_transparent_f5">#f5ffffff</color>
+    <color name="white_transparent_fd">#fdffffff</color>
+
+    <color name="gray_transparent_10">#1066696C</color>
+    <color name="carbon_transparent_10">#10292a2e</color>
+
+    <color name="colorEditTextDisable">#999999</color>
+    <color name="colorEditTextFocusLost">#ffffff</color>
+    <color name="colorEditTextFocusGained">#c6c6c6</color>
+
+    <!-- A light Holo shade of blue -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+    <!-- A light Holo shade of gray -->
+    <color name="holo_gray_light">#33999999</color>
+    <!-- A light Holo shade of green -->
+    <color name="holo_green_light">#ff99cc00</color>
+    <!-- A light Holo shade of red -->
+    <color name="holo_red_light">#ffff4444</color>
+    <!-- A dark Holo shade of blue -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <!-- A dark Holo shade of green -->
+    <color name="holo_green_dark">#ff669900</color>
+    <!-- A dark Holo shade of red -->
+    <color name="holo_red_dark">#ffcc0000</color>
+    <!-- A Holo shade of purple -->
+    <color name="holo_purple">#ffaa66cc</color>
+    <!-- A light Holo shade of orange -->
+    <color name="holo_orange_light">#ffffbb33</color>
+    <!-- A dark Holo shade of orange -->
+    <color name="holo_orange_dark">#ffff8800</color>
+    <!-- A really bright Holo shade of blue -->
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <!-- A really bright Holo shade of gray -->
+    <color name="holo_gray_bright">#33CCCCCC</color>
+
+    <color name="underline_color">#8d8d8d</color>
+
+    <color name="text_feedback">#6E6E6E</color>
+    <color name="text_hint">#bababa</color>
+    <color name="text_1">#a09f9f</color>
+    <color name="text_2">#7f7f7f</color>
+    <color name="text_3">#777676</color>
+    <color name="text_4">#5e5e5e</color>
+    <color name="text_5">#3b3b3b</color>
+
+    <color name="map_path">#93ABB0</color>
+    <color name="bg_feedback">#f2f2f2</color>
+    <color name="bg_color">#0a4553</color>
+    <color name="bg_earning">#F6F6EF</color>
+    <color name="bg_fab">#103642</color>
+    <color name="bg_fab_2">#2B2B2B</color>
+    <color name="bg_fab_3">#3F3F3F</color>
+    <color name="bg_welcome_header">#610f1e</color>
+    <color name="bg_driver_Type">#f2f2f2</color>
+
+    <color name="login_edit_text">#B9C3C6</color>
 </resources>

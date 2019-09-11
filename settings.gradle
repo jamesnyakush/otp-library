@@ -1,2 +1,2 @@
-include ':app', ':otp'
+include ':app', ':otp', ':circleimageview', ':oto'
 rootProject.name='MaterialUI'

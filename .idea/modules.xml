@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MaterialUI.iml" filepath="$PROJECT_DIR$/MaterialUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleimageview/MaterialUI-circleimageview.iml" filepath="$PROJECT_DIR$/circleimageview/MaterialUI-circleimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/otp/MaterialUI-otp.iml" filepath="$PROJECT_DIR$/otp/MaterialUI-otp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/circleimageview/circleimageview.iml" filepath="$PROJECT_DIR$/circleimageview/circleimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/oto/oto.iml" filepath="$PROJECT_DIR$/oto/oto.iml" />

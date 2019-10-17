@@ -9,6 +9,11 @@
       <module fileurl="file://$PROJECT_DIR$/circleimageview/circleimageview.iml" filepath="$PROJECT_DIR$/circleimageview/circleimageview.iml" />
       <module fileurl="file://$PROJECT_DIR$/oto/oto.iml" filepath="$PROJECT_DIR$/oto/oto.iml" />
       <module fileurl="file://$PROJECT_DIR$/otp/otp.iml" filepath="$PROJECT_DIR$/otp/otp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/otp-library-MaterialUI.iml" filepath="$PROJECT_DIR$/otp-library-MaterialUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/otp-library-app.iml" filepath="$PROJECT_DIR$/app/otp-library-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circleimageview/otp-library-circleimageview.iml" filepath="$PROJECT_DIR$/circleimageview/otp-library-circleimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oto/otp-library-oto.iml" filepath="$PROJECT_DIR$/oto/otp-library-oto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/otp/otp-library-otp.iml" filepath="$PROJECT_DIR$/otp/otp-library-otp.iml" />
     </modules>
   </component>
 </project>
